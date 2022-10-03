@@ -22,9 +22,8 @@
 
 <br/>
 
-<p align="center">
-This is the code to accompany the tutorial available at <a href="https://codecapsules.io/docs">https://codecapsules.io/docs</a>
-</p>
+
+This is the code to accompany the tutorial available in our deployment guide [How to Deploy a PHP Docker Application to Production on Code Capsules](https://codecapsules.io/docs/deployment/how-to-deploy-docker-php-application-to-production/).
 
 
 
