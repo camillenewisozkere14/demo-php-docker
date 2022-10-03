@@ -26,6 +26,11 @@
 
 This is the code to accompany the tutorial available in our deployment guide [How to Deploy a PHP Docker Application to Production on Code Capsules](https://codecapsules.io/docs/deployment/how-to-deploy-docker-php-application-to-production/).
 
+You might also be interested in our other resources:
+
+* **[Deployment guides](http://codecapsules.io/docs/deployment/):** quick-start guides to deploy specific frameworks and languages to production environments.
+* **[Tutorials](http://codecapsules.io/docs/tutorials/):** detailed project walkthroughs to help you learn specific frameworks and langauges.
+
 
 
 
